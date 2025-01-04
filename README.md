@@ -8,11 +8,4 @@ As part of this initiative, the Goodcabs management team aims to assess the comp
 
 However, the Chief of Operations, Bruce Haryali, wanted this immediately but the analytics manager Tony is engaged on another critical project. Tony decided to give this work to Peter Pandey who is the curious data analyst of Goodcabs. Since these insights will be directly reported to the Chief of Operations, Tony also provided some notes to Peter to support his work. 
 
-Task: 
 
-Imagine yourself as Peter Pandey and perform the following task to keep up the trust with your manager Tony Sharma.  
-
-Go through the metadata and analyse the datasets thoroughly. This is the most fundamental step. 
-Begin your analysis by referring to the ‘primary_and_secondary_questions.pdf’. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel) to analyse and answer these questions. More instructions are provided in this document. 
-Design a dashboard with your metrics and analysis. The dashboard should be self-explanatory and easy to understand. 
-Check “ad-hoc-requests.pdf” - this document includes important business questions, requiring SQL-based report generation. 
